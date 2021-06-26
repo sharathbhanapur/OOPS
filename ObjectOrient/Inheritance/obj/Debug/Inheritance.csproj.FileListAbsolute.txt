@@ -1,0 +1,7 @@
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/bin/Debug/ConsoleApp1.exe.config
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/bin/Debug/ConsoleApp1.exe
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/bin/Debug/ConsoleApp1.pdb
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/obj/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/obj/Debug/ConsoleApp1.exe
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/obj/Debug/ConsoleApp1.pdb
+/Users/sb035203/Documents/GitHub/OOPS/ObjectOrient/Inheritance/obj/Debug/Inheritance.csprojAssemblyReference.cache

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{81A5A51D-BB86-463E-8496-8FE73DF790BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstChildClass.cs">
+    <Files>
+      <File FileName="BaseClass.cs" Line="3" Column="2" />
+      <File FileName="FirstChildClass.cs" Line="6" Column="16" />
+      <File FileName="App.config" />
+      <File FileName="Program.cs" />
+      <File FileName="SecondChildClass.cs" />
+      <File FileName="Inheritance.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance" expanded="True">
+            <Node name="Inheritance" expanded="True">
+              <Node name="FirstChildClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
